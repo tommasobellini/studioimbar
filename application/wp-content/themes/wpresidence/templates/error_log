@@ -1,0 +1,1 @@
+[08-Nov-2017 14:20:13 UTC] PHP Fatal error:  Call to undefined function get_post_thumbnail_id() in /home/wpreside/public_html/core/wp-content/themes/wpresidence/templates/agency_unit.php on line 4
